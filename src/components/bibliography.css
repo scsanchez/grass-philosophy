@@ -1,24 +1,11 @@
-.img {
-    max-width: 100%;
-    height: auto;
-}
-
 .card {
+    background-color: aliceblue;
     border: 1px solid #ccc;
     border-radius: 8px;
-    background-color: aliceblue;
     padding: 16px;
     margin: 8px;
     text-align: center;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-}
-
-.card img {
-    max-width: 100px;
-    max-height: 100px;
-    width: 100%;
-    height: auto;
-    border-radius: 50%;
 }
 
 .card h2 {
