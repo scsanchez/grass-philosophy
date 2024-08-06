@@ -1,0 +1,19 @@
+.card {
+    background-color: aliceblue;
+    border: 1px solid #ccc;
+    border-radius: 8px;
+    padding: 16px;
+    margin: 8px;
+    text-align: center;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.card h2 {
+    font-size: 1.2em;
+    margin: 8px 0;
+}
+
+.card p {
+    font-size: 0.9em;
+    color: #666;
+}
