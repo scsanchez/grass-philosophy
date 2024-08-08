@@ -5,8 +5,6 @@ import Bibliography from "./components/bibliography.tsx";
 import Footer from "./components/footer.tsx";
 import Description from "./components/description.tsx";
 
-
-
 function App() {
   return (
     <>

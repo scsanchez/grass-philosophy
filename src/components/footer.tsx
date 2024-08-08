@@ -1,10 +1,10 @@
-import "./footer.css";
+import "./footer.css"
 
 const Footer = () => {
   return (
     <footer className="footer">
       <div className="footer-content">
-        <p> Hecho con ❤️ por Sergio </p>
+        <p> Hecho con ❤️ </p>
       </div>
     </footer>
   );
